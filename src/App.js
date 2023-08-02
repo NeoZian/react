@@ -29,8 +29,8 @@ class App extends Component {
 
         <div>
 
-        <Employee></Employee>
-        <Employee/>
+        <Employee name="jewel" role="Filing specialist"></Employee>
+        <Employee name="sal"/>
         <Employee/>
 
         </div>
